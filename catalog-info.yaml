@@ -13,7 +13,6 @@ spec:
     - ./searcher-component.yaml
     - ./playback-lib-component.yaml
     - ./www-artist-component.yaml
-    - ./shuffle-api-component.yaml
     - ./wayback-archive-component.yaml
     - ./wayback-archive-ingestion-component.yaml
     - ./wayback-archive-storage-component.yaml
