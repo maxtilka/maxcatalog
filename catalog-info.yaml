@@ -5,5 +5,5 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - ./artist-lookup-component.yaml
+    - ./Maxs-new-service-to-delete.yaml
     - ./petstore-component.yaml
