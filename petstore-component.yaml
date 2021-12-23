@@ -1,17 +1,17 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: petstore
+  name: User Login App
   # This is an extra long description
-  description: The Petstore is an example API used to show features of the OpenAPI spec.
+  description: This microservice connects with our authentication framework so users can login to their profile to view transaction history, upgrades, and manage invites.
   links:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
       icon: github
 spec:
   type: service
-  lifecycle: experimental
-  owner: team-c
+  lifecycle: Production
+  owner: marketing-team
   providesApis:
     - petstore
     - streetlights
