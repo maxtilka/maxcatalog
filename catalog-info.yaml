@@ -6,4 +6,4 @@ metadata:
 spec:
   targets:
     - ./Maxs-service.yaml
-    - ./petstore-component.yaml
+    - ./user-login-app.yaml
