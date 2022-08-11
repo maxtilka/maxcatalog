@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Maxs new service to delete
+  name: Max's Service
   description: Artist Lookup
   tags:
     - java
