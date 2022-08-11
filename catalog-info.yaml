@@ -5,5 +5,5 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - ./Maxs-new-service-to-delete.yaml
+    - ./Maxs-service.yaml
     - ./petstore-component.yaml
