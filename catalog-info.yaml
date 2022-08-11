@@ -6,4 +6,4 @@ metadata:
 spec:
   targets:
     - ./Maxs-service.yaml
-    - ./user-login-app.yaml
+    - ./User-Login-App.yaml
