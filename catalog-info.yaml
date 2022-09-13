@@ -7,3 +7,4 @@ spec:
   targets:
     - ./Maxs-service.yaml
     - ./User-Login-App.yaml
+    - ./search_recommendation.yaml
